@@ -1,0 +1,23 @@
+{
+  "name": "timechallenge",
+  "version": "1.0.0",
+  "description": "time challenge free code camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "moment",
+    "freecodecamp",
+    "express",
+    "api"
+  ],
+  "author": "CorneilleEdi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  }
+}
